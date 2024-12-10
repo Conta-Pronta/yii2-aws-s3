@@ -5,7 +5,6 @@
     "keywords": ["yii2", "aws", "s3", "aws-s3", "yii2-aws", "yii2-s3"],
     "homepage": "https://github.com/frostealth/yii2-aws-s3",
     "license": "MIT",
-    "version": "dev-2.1.1",
     "authors": [
         {
             "name": "Ivan Kudinov",
